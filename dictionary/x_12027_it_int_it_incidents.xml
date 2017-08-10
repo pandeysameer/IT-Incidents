@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sm_order" label="IT Incidents" max_length="40" name="x_12027_it_int_it_incidents" type="collection"/>
+</database>

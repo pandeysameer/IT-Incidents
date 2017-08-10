@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="IT Incidents" language="en" table="x_12027_it_int_it_incidents">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>IT Incidents</label>
+            <language>en</language>
+            <name>x_12027_it_int_it_incidents</name>
+            <plural>IT Incidents</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-10 14:49:25</sys_created_on>
+            <sys_id>c7df29f0dbe40300a4a5d7a0cf961925</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>IT Incidents</sys_name>
+            <sys_package display_value="IT Incidents" source="x_12027_it_int">32dfa9b0dbe40300a4a5d7a0cf96191d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Incidents">32dfa9b0dbe40300a4a5d7a0cf96191d</sys_scope>
+            <sys_update_name>sys_documentation_x_12027_it_int_it_incidents__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-10 14:49:25</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
